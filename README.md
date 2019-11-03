@@ -1,4 +1,7 @@
 # Robotic-arm-arduino
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 Hi there, 
 
 SG90 and Uno R3 were used.
